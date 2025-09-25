@@ -82,7 +82,7 @@ flutter test
 
 ```bash
 git clone https://github.com/Dhiraj706Sardar/mini_delivery_app.git
-cd food-ordering-app
+cd mini_delivery_app
 ```
 
 2. Install dependencies:
