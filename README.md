@@ -1,12 +1,12 @@
 
-# 🍔 Food Ordering Workflow App
+# Food Ordering Workflow App
 
 A Flutter application simulating a food ordering workflow similar to Swiggy/Zomato.  
 Built using **Flutter**, **BLoC architecture**, and integrated with the **FakeRestaurantAPI** for mock restaurant and menu data.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fetch and display a list of restaurants
 - View restaurant-specific menus
@@ -19,7 +19,7 @@ Built using **Flutter**, **BLoC architecture**, and integrated with the **FakeRe
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Flutter (UI framework)  
 - Dart (programming language)  
@@ -30,7 +30,7 @@ Built using **Flutter**, **BLoC architecture**, and integrated with the **FakeRe
 
 
 
-## 📂 Project Structure
+## Project Structure
 ```
 lib/
 ├─ main.dart
@@ -57,7 +57,7 @@ lib/
 └─ api_endpoints.dart
 ```
 
-## 🔗 API Reference
+## API Reference
 
 - Base URL: `https://fakerestaurantapi.runasp.net/api`  
 - Endpoints:  
@@ -76,7 +76,7 @@ flutter test
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -119,7 +119,7 @@ flutter build apk --debug
 
 ---
 
-## 📌 Notes
+## Notes
 
 * This project is a **demo workflow** only (no login, no real payments).
 * Data is fetched from a **mock API** and may not always be consistent.
