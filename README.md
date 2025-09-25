@@ -125,4 +125,3 @@ flutter build apk --debug
 * Data is fetched from a **mock API** and may not always be consistent.
 
 
-# mini_delivery_app
